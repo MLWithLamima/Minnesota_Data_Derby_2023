@@ -1,20 +1,48 @@
-# Data Derby Team 10 - Data Mavericks 2023
+# Data Derby Team 10 – Data Mavericks 2023
+This repository contains our team's work for the 2023 Minnesota Data Derby, where we placed third in the Advanced Division. The task during this competition was to gather insights on food prices and inflation, including differences during the covid years and the start of the war in Ukraine.
 
-This is the Data Mavericks team repository we used, to communicate our insights we gathered with each other during the datathon competition at the MN Data Derby 2023. We eventually ended up third in the Advanced competition. The task during this competition was to gather insights on food prices and inflation, including differences during the covid years and the start of the war in Ukraine. Besides gathering insides, we also got the task to forecast the food prices for the years 2023 and 2024, which we took even further up to 2030.
-The complete task can be found in the <a href="https://github.com/Neatherblok/Data_Mavericks_2023/tree/main/2023 Data Derby Challenge Questions.pdf">2023 Data Derby Challenge Questions</a> file.
+As a member of Team Data Mavericks, I was involved in Data integration and harmonization from multiple sources., exploratory analysis, interpretation of findings, and communication of results. Working on this project provided valuable experience in integrating data from several sources, developing reproducible workflows, maintaining data quality, and collaborating with teammates to turn complex information into meaningful insights.
 
-This is a description of what each folders in this branch contains:
-<ul>
-<li>In the <a href="https://github.com/Neatherblok/Data_Mavericks_2023/tree/main/%5BDATA%5D%20originals">[DATA] originals</a> folder you can find the original XLSL files that we got from the Data Derby organization.</li>
-<li>In the <a href="https://github.com/Neatherblok/Data_Mavericks_2023/tree/main/%5BDATA%5D%20preprocessed%20csv's">[DATA] preprocessed csv's</a> folder you can find the CSV files that have been preprocessed from the XLSL files.</li>
-<li>In the <a href="https://github.com/Neatherblok/Data_Mavericks_2023/tree/main/%5BDATA%5D%20extra">[DATA] extra</a> folder you can find CSV files that were found online on publicly accessible websites. These data were used to further improve our insights and forecasting model.</li>
-<li>In the <a href="https://github.com/Neatherblok/Data_Mavericks_2023/tree/main/%5BNotebooks%5D%20data%20preprocessing">[Notebooks] data preprocessing</a> folder you can find the Jupyter Notebooks that have been used within this Data Derby Project to preprocess the data from its original XSLS files to CSV files.</li>
-<li>In the <a href="https://github.com/Neatherblok/Data_Mavericks_2023/tree/main/%5BNotebooks%5D%20question%20insights">[Notebooks] question insights</a> folder you can find the Jupyter Notebooks that have been used to gather the insights to answer each question.</li>
-</ul>
+## Repository Structure
 
-Finally, the final presentation we used to share our insights with the jury on April 8th, 2023 can be found in the file <a href="https://github.com/Neatherblok/Data_Mavericks_2023/blob/main/Data%20Derby%20Presentation%20-%20Data%20Mavericks.pptx">Data Derby Presentation - Data Mavericks.pptx</a>.
+### [DATA] originals
+This folder contains the original Excel files provided by the Minnesota Data Derby organization.
 
-Feel free to leave feedback as this would help us further improve ourselves!
+### [DATA] preprocessed csv's
+This folder contains the cleaned and transformed CSV files that were generated from the original datasets and used throughout the analysis.
 
-Thank you,
-Team Data Mavericks
+### [DATA] extra
+This folder contains additional datasets obtained from publicly available sources. These datasets were incorporated to support and improve the analysis and forecasting models.
+
+### [Notebooks] data preprocessing
+This folder contains the Jupyter notebooks used to clean, preprocess, and prepare the datasets for analysis.
+
+### [Notebooks] question insights
+This folder contains the notebooks used to explore the data, answer the challenge questions, and generate insights.
+
+### Data Derby Presentation – Data Mavericks.pptx
+This presentation was used to communicate our findings to the judges during the final stage of the competition.
+
+## Tools and Technologies
+
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Excel
+- CSV files
+
+## Project Highlights
+
+- Integrated and organized data from multiple sources.
+- Cleaned and transformed datasets for analysis.
+- Explored trends in food prices and inflation before and after COVID-19.
+- Incorporated additional publicly available datasets to strengthen analyses.
+- Developed forecasting models extending through 2030.
+- Generated insights to address the challenge questions.
+- Presented findings to a panel of judges as part of the Minnesota Data Derby competition.
+
+Thank you for taking the time to review our work. We hope you find it informative, and we always welcome feedback and suggestions for improvement.
+
+**Team Data Mavericks**
